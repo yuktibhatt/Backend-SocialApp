@@ -1,0 +1,26 @@
+{
+  "name": "socialapp",
+  "version": "1.0.0",
+  "description": "a backend social app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuktibhatt/Backend-SocialApp.git"
+  },
+  "keywords": [
+    "express",
+    "api"
+  ],
+  "author": "Yukti Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuktibhatt/Backend-SocialApp/issues"
+  },
+  "homepage": "https://github.com/yuktibhatt/Backend-SocialApp#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
