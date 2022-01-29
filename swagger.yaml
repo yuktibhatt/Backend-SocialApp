@@ -5,12 +5,13 @@ info:
   version: 1.0.1
 
 servers:
+  - url: https://demoappsocial.herokuapp.com/api/v1
+    description : Hosted site
   - url: http://localhost:4000/api/v1
     description: localhost version of our app
   - url: http://localhost:4000/api/v1
     description: This is just a dummy site.
-  - url: https://demoappsocial.herokuapp.com/api/v1
-    description : Hosted site
+  
 
 
 components:
